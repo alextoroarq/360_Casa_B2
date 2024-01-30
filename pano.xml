@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" apprev="18105" start="node15">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Deck" tags="01-IMAGENES 360|Deck" description="" comment="" info="" customnodeid="" nodeid="node1" datetime="02/06/2022 10:19 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Deck " pan="-42.32" description="" tilt="-12.9" id="Point01" skinid="ht_node" url="{node2}" target="-21.0/0.9/70.0"/>
+      <hotspot title="Deck" pan="-273.99" description="" tilt="-19.65" id="Point02" skinid="ht_node" url="{node3}" target="-27.5/-1.4/75.0"/>
+      <hotspot title="Interior" pan="-248.64" description="" tilt="-24.56" id="Point03" skinid="ht_node" url="{node21}" target="-49.3/-0.5/75.0"/>
+      <hotspot title="Interior " pan="-212" description="" tilt="-21.78" id="Point04" skinid="ht_node" url="{node20}" target="-46.6/-0.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Deck " tags="01-IMAGENES 360|Deck" description="" comment="" info="" customnodeid="" nodeid="node2" datetime="03/06/2022 10:46 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Deck" pan="-208.15" description="" tilt="-12.32" id="Point01" skinid="ht_node" url="{node1}" target="134.0/0.2/70.0"/>
+      <hotspot title="Deck" pan="-231.67" description="" tilt="-8.46" id="Point02" skinid="ht_node" url="{node3}" target="5.1/-0.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Deck" tags="01-IMAGENES 360|Deck" description="" comment="" info="" customnodeid="" nodeid="node3" datetime="02/06/2022 05:26 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-35" description="" tilt="-22.23" id="Point01" skinid="ht_node" url="{node4}" target="-25.3/1.9/75.0"/>
+      <hotspot title="Deck" pan="-215.53" description="" tilt="-18.76" id="Point02" skinid="ht_node" url="{node1}" target="-110.6/4.5/75.0"/>
+      <hotspot title="Deck " pan="-170.9" description="" tilt="-8.66" id="Point03" skinid="ht_node" url="{node2}" target="-38.1/1.0/75.0"/>
+      <hotspot title="Jardin " pan="-16.95" description="" tilt="-8.53" id="Point04" skinid="ht_node" url="{node5}" target="-97.1/-1.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Jardin " tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node4" datetime="03/06/2022 02:23 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Deck" pan="-187.18" description="" tilt="-11.63" id="Point01" skinid="ht_node" url="{node3}" target="174.2/-1.3/75.0"/>
+      <hotspot title="Jardin " pan="-2.01" description="" tilt="-9.26" id="Point02" skinid="ht_node" url="{node5}" target="-124.4/-5.8/75.0"/>
+      <hotspot title="Jardin " pan="-346.19" description="" tilt="-5.34" id="Point03" skinid="ht_node" url="{node6}" target="-82.6/-2.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Jardin " tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node5" datetime="02/06/2022 12:07 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-328.24" description="" tilt="-9.21" id="Point01" skinid="ht_node" url="{node4}" target="-156.2/0.2/75.0"/>
+      <hotspot title="Deck" pan="-346.02" description="" tilt="-5.23" id="Point02" skinid="ht_node" url="{node3}" target="-172.8/0.5/75.0"/>
+      <hotspot title="Jardin " pan="-123.66" description="" tilt="-9.78" id="Point03" skinid="ht_node" url="{node6}" target="-104.6/-0.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Jardin " tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node6" datetime="02/06/2022 12:32 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-334.34" description="" tilt="-10.68" id="Point01" skinid="ht_node" url="{node5}" target="6.8/0.3/75.0"/>
+      <hotspot title="Jardin " pan="0.960006" description="" tilt="-6.35" id="Point02" skinid="ht_node" url="{node4}" target="-160.6/-1.8/75.0"/>
+      <hotspot title="Deck" pan="-9.61" description="" tilt="-2.5" id="Point03" skinid="ht_node" url="{node3}" target="-173.4/2.0/75.0"/>
+      <hotspot title="Jardin " pan="-92.31" description="" tilt="-10.6" id="Point04" skinid="ht_node" url="{node7}" target="-75.7/0.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Jardin " tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node7" datetime="02/06/2022 12:58 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-296.18" description="" tilt="-10.67" id="Point01" skinid="ht_node" url="{node6}" target="25.3/3.5/75.0"/>
+      <hotspot title="jardin" pan="-94.95" description="" tilt="-13.91" id="Point02" skinid="ht_node" url="{node8}" target="-36.9/0.5/75.0"/>
+      <hotspot title="Interior" pan="-20.81" description="" tilt="-7.89" id="Point03" skinid="ht_node" url="{node29}" target="-48.6/-1.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="jardin" tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node8" datetime="02/06/2022 01:23 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-250.28" description="" tilt="-9.4" id="Point01" skinid="ht_node" url="{node7}" target="34.3/0.2/75.0"/>
+      <hotspot title="Jardin " pan="-256.18" description="" tilt="-3.86" id="Point02" skinid="ht_node" url="{node6}" target="2.3/-0.4/75.0"/>
+      <hotspot title="Jardin " pan="-330.38" description="" tilt="-12" id="Point03" skinid="ht_node" url="{node9}" target="5.2/0.1/75.0"/>
+      <hotspot title="Porche" pan="-9.28" description="" tilt="-9.48" id="Point04" skinid="ht_node" url="{node10}" target="0.0/0.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Jardin " tags="01-IMAGENES 360|Jardin" description="" comment="" info="" customnodeid="" nodeid="node9" datetime="02/06/2022 02:11 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="jardin" pan="-148.59" description="" tilt="-36.57" id="Point01" skinid="ht_node" url="{node8}" target="-140.7/-5.1/75.0"/>
+      <hotspot title="Porche" pan="-46.82" description="" tilt="-21.06" id="Point02" skinid="ht_node" url="{node10}" target="-23.0/1.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche" tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node10" datetime="02/06/2022 02:37 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-229.79" description="" tilt="-20.56" id="Point01" skinid="ht_node" url="{node9}" target="149.2/-1.0/75.0"/>
+      <hotspot title="jardin" pan="-189.52" description="" tilt="-23.85" id="Point02" skinid="ht_node" url="{node8}" target="149.8/-1.4/75.0"/>
+      <hotspot title="Porche " pan="-358.8" description="" tilt="-13.53" id="Point03" skinid="ht_node" url="{node11}" target="0.0/0.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche " tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node11" datetime="02/06/2022 03:06 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche" pan="-179.63" description="" tilt="-13.31" id="Point01" skinid="ht_node" url="{node10}" target="-174.6/-3.7/70.0"/>
+      <hotspot title="Porche" pan="-354.99" description="" tilt="-12.13" id="Point02" skinid="ht_node" url="{node12}" target="-93.1/1.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche" tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node12" datetime="02/06/2022 03:33 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche " pan="-300.83" description="" tilt="-14.66" id="Point01" skinid="ht_node" url="{node11}" target="150.8/0.5/70.0"/>
+      <hotspot title="Porche" pan="-297.93" description="" tilt="-7.25" id="Point02" skinid="ht_node" url="{node10}" target="-158.1/0.6/70.0"/>
+      <hotspot title="Porche" pan="-117.61" description="" tilt="-9.34" id="Point03" skinid="ht_node" url="{node13}" target="-99.6/2.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche" tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node13" datetime="02/06/2022 04:03 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche" pan="-325.24" description="" tilt="-14.41" id="Point01" skinid="ht_node" url="{node12}" target="5.7/1.6/75.0"/>
+      <hotspot title="Porche " pan="-322.83" description="" tilt="-5.9" id="Point02" skinid="ht_node" url="{node11}" target="162.8/1.5/70.0"/>
+      <hotspot title="Porche" pan="-34.53" description="" tilt="-8.93" id="Point03" skinid="ht_node" url="{node14}" target="-22.6/1.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche" tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node14" datetime="02/06/2022 04:32 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche" pan="-249.42" description="" tilt="-8.68" id="Point01" skinid="ht_node" url="{node13}" target="-158.0/-0.2/75.0"/>
+      <hotspot title="Porche" pan="-303.45" description="" tilt="-8.48" id="Point02" skinid="ht_node" url="{node12}" target="70.6/1.7/75.0"/>
+      <hotspot title="Interior " pan="0.27" description="" tilt="-8.06" id="Point03" skinid="ht_node" url="{node16}" target="0.2/0.0/75.0"/>
+      <hotspot title="Porche" pan="-217.76" description="" tilt="-1.45" id="Point04" skinid="ht_node" url="{node15}" target="0.0/0.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="-14.87" tilt="-15.04" projection="4"/>
+      <flyin fov="75" pan="-13.16" tilt="-16.35" projection="4"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Porche" tags="01-IMAGENES 360|Porche" description="" comment="" info="" customnodeid="" nodeid="node15" datetime="02/06/2022 04:59 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche" pan="-27.68" description="" tilt="-24.7" id="Point01" skinid="ht_node" url="{node14}" target="0.0/0.0/75.0"/>
+      <hotspot title="Porche" pan="-342.57" description="" tilt="-40.78" id="Point02" skinid="ht_node" url="{node13}" target="4.9/0.1/75.0"/>
+      <hotspot title="Porche" pan="-347.01" description="" tilt="-21.01" id="Point03" skinid="ht_node" url="{node12}" target="27.8/-0.7/75.0"/>
+      <hotspot title="Porche " pan="-346.91" description="" tilt="-14.28" id="Point04" skinid="ht_node" url="{node11}" target="160.1/2.2/70.0"/>
+      <hotspot title="Deck " pan="-54.85" description="" tilt="-17.69" id="Point05" skinid="ht_node" url="{node2}" target="132.0/-2.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node16" datetime="31/05/2022 06:32 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Porche" pan="-180.23" description="" tilt="-12.82" id="Point01" skinid="ht_node" url="{node14}" target="179.0/-0.6/75.0"/>
+      <hotspot title="Interior " pan="-13.26" description="" tilt="-13.03" id="Point02" skinid="ht_node" url="{node17}" target="176.5/-6.5/75.0"/>
+      <hotspot title="Interior" pan="-352.07" description="" tilt="-6.22" id="Point03" skinid="ht_node" url="{node33}" target="0.0/0.0/75.0"/>
+      <hotspot title="Interior " pan="-354.72" description="" tilt="13.87" id="Point04" skinid="ht_node" url="{node34}" target="0.0/0.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node17" datetime="01/06/2022 02:12 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-336.77" description="" tilt="-17.31" id="Point01" skinid="ht_node" url="{node18}" target="-148.8/1.0/75.0"/>
+      <hotspot title="Interior" pan="-283.31" description="" tilt="-15.68" id="Point02" skinid="ht_node" url="{node22}" target="-177.3/0.9/75.0"/>
+      <hotspot title="Interior" pan="-214.79" description="" tilt="-34.61" id="Point03" skinid="ht_node" url="{node24}" target="-0.2/0.0/75.0"/>
+      <hotspot title="Interior " pan="-353.89" description="" tilt="-10.17" id="Point04" skinid="ht_node" url="{node16}" target="-169.4/0.5/75.0"/>
+      <hotspot title="Interior" pan="-168.95" description="" tilt="-32.23" id="Point05" skinid="ht_node" url="{node25}" target="-59.6/-0.4/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node18" datetime="01/06/2022 09:27 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-163.64" description="" tilt="-36.66" id="Point01" skinid="ht_node" url="{node19}" target="37.7/0.8/75.0"/>
+      <hotspot title="Interior " pan="-341.28" description="" tilt="-16.84" id="Point02" skinid="ht_node" url="{node17}" target="-167.4/-4.9/75.0"/>
+      <hotspot title="Deck" pan="-161.55" description="" tilt="-10.63" id="Point03" skinid="ht_node" url="{node1}" target="-59.0/0.4/75.0"/>
+      <hotspot title="Interior" pan="-50.57" description="" tilt="-18.55" id="Point04" skinid="ht_node" url="{node22}" target="-107.1/-0.6/75.0"/>
+      <hotspot title="Interior" pan="-358.07" description="" tilt="-14.55" id="Point05" skinid="ht_node" url="{node24}" target="0.0/0.0/75.0"/>
+      <hotspot title="Interior" pan="-346.39" description="" tilt="-11.52" id="Point06" skinid="ht_node" url="{node25}" target="-84.9/3.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node19" datetime="01/06/2022 08:34 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-151.05" description="" tilt="-25.48" id="Point01" skinid="ht_node" url="{node18}" target="19.1/0.2/75.0"/>
+      <hotspot title="Interior " pan="-163.4" description="" tilt="-11.17" id="Point02" skinid="ht_node" url="{node17}" target="-130.5/-0.3/75.0"/>
+      <hotspot title="Interior " pan="-359.24" description="" tilt="-25.35" id="Point03" skinid="ht_node" url="{node20}" target="144.5/-3.9/75.0"/>
+      <hotspot title="Deck" pan="-342.88" description="" tilt="-14.23" id="Point04" skinid="ht_node" url="{node1}" target="-52.3/1.5/75.0"/>
+      <hotspot title="Deck" pan="-293.68" description="" tilt="-18.9" id="Point05" skinid="ht_node" url="{node3}" target="-96.0/-2.5/75.0"/>
+      <hotspot title="Interior" pan="-209.08" description="" tilt="-14.73" id="Point06" skinid="ht_node" url="{node22}" target="-89.2/-2.1/75.0"/>
+      <hotspot title="Interior" pan="-174.8" description="" tilt="-10.76" id="Point07" skinid="ht_node" url="{node24}" target="1.8/-0.4/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node20" datetime="01/06/2022 01:44 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-48.61" description="" tilt="-26.34" id="Point01" skinid="ht_node" url="{node19}" target="-149.3/-2.3/75.0"/>
+      <hotspot title="Interior" pan="-45.97" description="" tilt="-12.73" id="Point02" skinid="ht_node" url="{node18}" target="31.1/-0.2/75.0"/>
+      <hotspot title="Deck" pan="-220.6" description="" tilt="-25.58" id="Point03" skinid="ht_node" url="{node1}" target="-49.2/0.3/75.0"/>
+      <hotspot title="Deck " pan="-221.22" description="" tilt="-9.38" id="Point04" skinid="ht_node" url="{node2}" target="-16.7/1.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node21" datetime="01/06/2022 09:01 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-316.84" description="" tilt="-48.4" id="Point01" skinid="ht_node" url="{node20}" target="-27.4/1.4/75.0"/>
+      <hotspot title="Interior " pan="-19.02" description="" tilt="-23.07" id="Point02" skinid="ht_node" url="{node19}" target="-153.1/-2.3/75.0"/>
+      <hotspot title="Interior" pan="-24.8" description="" tilt="-12.39" id="Point03" skinid="ht_node" url="{node18}" target="46.6/1.8/75.0"/>
+      <hotspot title="Deck" pan="-224.7" description="" tilt="-33.33" id="Point04" skinid="ht_node" url="{node1}" target="-64.1/0.0/75.0"/>
+      <hotspot title="Deck " pan="-221.47" description="" tilt="-12.18" id="Point05" skinid="ht_node" url="{node2}" target="-42.8/0.7/75.0"/>
+      <hotspot title="Deck" pan="-129.36" description="" tilt="-28.57" id="Point06" skinid="ht_node" url="{node3}" target="-54.8/1.7/75.0"/>
+      <hotspot title="Interior" pan="-38.95" description="" tilt="-8.63" id="Point07" skinid="ht_node" url="{node24}" target="16.4/-0.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node22" datetime="01/06/2022 09:56 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-279.54" description="" tilt="-17.19" id="Point01" skinid="ht_node" url="{node19}" target="-15.2/-0.8/75.0"/>
+      <hotspot title="Interior " pan="-359.03" description="" tilt="-16.49" id="Point02" skinid="ht_node" url="{node17}" target="-78.3/0.2/75.0"/>
+      <hotspot title="Interior" pan="-24.8" description="" tilt="-17.38" id="Point03" skinid="ht_node" url="{node24}" target="21.0/0.3/75.0"/>
+      <hotspot title="Interior" pan="-18.42" description="" tilt="-13.09" id="Point04" skinid="ht_node" url="{node25}" target="-72.1/0.5/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node24" datetime="" source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-194.61" description="" tilt="-9.54" id="Point01" skinid="ht_node" url="{node16}" target="-172.1/1.4/75.0"/>
+      <hotspot title="Interior" pan="-185.63" description="" tilt="-14.03" id="Point02" skinid="ht_node" url="{node18}" target="-175.0/0.7/75.0"/>
+      <hotspot title="Interior " pan="-236.91" description="" tilt="-40.57" id="Point03" skinid="ht_node" url="{node17}" target="-55.4/-4.2/75.0"/>
+      <hotspot title="Interior" pan="-134.27" description="" tilt="-17.91" id="Point04" skinid="ht_node" url="{node22}" target="173.6/-0.2/75.0"/>
+      <hotspot title="Interior" pan="-305.67" description="" tilt="-34.58" id="Point05" skinid="ht_node" url="{node25}" target="-65.8/-1.5/75.0"/>
+      <hotspot title="Interior" pan="-357.38" description="" tilt="-25.43" id="Point06" skinid="ht_node" url="{node26}" target="12.1/0.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node25" datetime="03/06/2022 03:35 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-294.95" description="" tilt="-29.13" id="Point01" skinid="ht_node" url="{node17}" target="12.9/0.1/75.0"/>
+      <hotspot title="Interior " pan="-295.6" description="" tilt="-7.88" id="Point02" skinid="ht_node" url="{node16}" target="-178.9/0.8/75.0"/>
+      <hotspot title="Interior" pan="-283.2" description="" tilt="-11.07" id="Point03" skinid="ht_node" url="{node18}" target="-171.8/2.4/75.0"/>
+      <hotspot title="Interior" pan="-256.17" description="" tilt="-32.44" id="Point04" skinid="ht_node" url="{node24}" target="-127.8/3.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node26" datetime="01/06/2022 11:40 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-166.63" description="" tilt="-7.89" id="Point01" skinid="ht_node" url="{node16}" target="-179.6/-4.0/75.0"/>
+      <hotspot title="Interior" pan="-155.5" description="" tilt="-22.86" id="Point02" skinid="ht_node" url="{node24}" target="-177.0/-4.4/75.0"/>
+      <hotspot title="interior" pan="-56.71" description="" tilt="-23.67" id="Point03" skinid="ht_node" url="{node27}" target="-56.1/-1.6/75.0"/>
+      <hotspot title="Interior" pan="-333.02" description="" tilt="-22.64" id="Point04" skinid="ht_node" url="{node29}" target="133.1/-0.4/75.0"/>
+      <hotspot title="Jardin " pan="-333.55" description="" tilt="-11.65" id="Point05" skinid="ht_node" url="{node7}" target="-159.3/-1.6/75.0"/>
+      <hotspot title="Interior" pan="-240.78" description="" tilt="-35.4" id="Point06" skinid="ht_node" url="{node30}" target="13.8/-3.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node27" datetime="01/06/2022 12:06 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-290.34" description="" tilt="-25.48" id="Point01" skinid="ht_node" url="{node26}" target="129.6/2.9/75.0"/>
+      <hotspot title="Interior" pan="-206.02" description="" tilt="-11.37" id="Point02" skinid="ht_node" url="{node22}" target="160.1/3.5/75.0"/>
+      <hotspot title="interior" pan="-34.13" description="" tilt="-28.09" id="Point03" skinid="ht_node" url="{node28}" target="-11.8/0.4/75.0"/>
+      <hotspot title="Interior" pan="-294.54" description="" tilt="-14.89" id="Point04" skinid="ht_node" url="{node30}" target="10.6/0.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node28" datetime="01/06/2022 12:31 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="interior" pan="-234.97" description="" tilt="-27.38" id="Point01" skinid="ht_node" url="{node27}" target="128.3/1.4/75.0"/>
+      <hotspot title="Interior" pan="-339.98" description="" tilt="-27.47" id="Point02" skinid="ht_node" url="{node29}" target="-85.1/-0.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node29" datetime="01/06/2022 01:01 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Jardin " pan="-227.99" description="" tilt="-22.36" id="Point01" skinid="ht_node" url="{node7}" target="162.8/-2.0/75.0"/>
+      <hotspot title="interior" pan="-319.82" description="" tilt="-25.73" id="Point02" skinid="ht_node" url="{node28}" target="161.6/-5.9/75.0"/>
+      <hotspot title="Interior" pan="-51.71" description="" tilt="-24.44" id="Point03" skinid="ht_node" url="{node26}" target="-176.1/0.7/75.0"/>
+      <hotspot title="Interior" pan="-51.66" description="" tilt="-12.42" id="Point04" skinid="ht_node" url="{node24}" target="179.4/-0.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node30" datetime="03/06/2022 03:57 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-233.99" description="" tilt="-53.61" id="Point01" skinid="ht_node" url="{node25}" target="48.6/0.6/75.0"/>
+      <hotspot title="Interior" pan="-158.22" description="" tilt="-38.51" id="Point02" skinid="ht_node" url="{node26}" target="-62.0/0.5/75.0"/>
+      <hotspot title="interior" pan="-160.88" description="" tilt="-15.79" id="Point03" skinid="ht_node" url="{node27}" target="-94.0/1.0/75.0"/>
+      <hotspot title="Interior" pan="-248.47" description="" tilt="-9.15" id="Point04" skinid="ht_node" url="{node18}" target="-145.6/0.5/75.0"/>
+      <hotspot title="Interior" pan="-353.62" description="" tilt="-29.38" id="Point05" skinid="ht_node" url="{node31}" target="-22.4/-0.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="94" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node31" datetime="31/05/2022 09:17 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-231.58" description="" tilt="-28.98" id="Point01" skinid="ht_node" url="{node30}" target="167.0/-0.3/75.0"/>
+      <hotspot title="Interior" pan="-228.66" description="" tilt="-14.87" id="Point02" skinid="ht_node" url="{node26}" target="-59.0/-0.9/75.0"/>
+      <hotspot title="Interior" pan="-10.77" description="" tilt="-18" id="Point03" skinid="ht_node" url="{node32}" target="6.1/-1.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node32" datetime="03/06/2022 04:19 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-18.72" description="" tilt="-19.09" id="Point01" skinid="ht_node" url="{node31}" target="130.9/-3.2/75.0"/>
+      <hotspot title="Jardin " pan="-340.99" description="" tilt="-16.61" id="Point02" skinid="ht_node" url="{node9}" target="-158.5/1.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|Interior1" description="" comment="" info="" customnodeid="" nodeid="node33" datetime="31/05/2022 06:58 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-172.09" description="" tilt="-41.05" id="Point01" skinid="ht_node" url="{node16}" target="180.0/-0.7/75.0"/>
+      <hotspot title="Interior " pan="1.59001" description="" tilt="8.26" id="Point02" skinid="ht_node" url="{node34}" target="0.0/0.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node34" datetime="03/06/2022 09:31 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-7.6" description="" tilt="-5.57" id="Point01" skinid="ht_node" url="{node36}" target="-179.7/-0.9/75.0"/>
+      <hotspot title="Interior " pan="-175.33" description="" tilt="-36.57" id="Point02" skinid="ht_node" url="{node16}" target="-177.5/-2.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node36" datetime="03/06/2022 10:00 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-10.65" description="" tilt="-37.2" id="Point01" skinid="ht_node" url="{node34}" target="-177.2/-0.6/75.0"/>
+      <hotspot title="Interior" pan="-316.09" description="" tilt="-26.78" id="Point02" skinid="ht_node" url="{node37}" target="41.6/-1.8/75.0"/>
+      <hotspot title="Interior" pan="-51.13" description="" tilt="-24.78" id="Point03" skinid="ht_node" url="{node41}" target="0.0/0.0/75.0"/>
+      <hotspot title="Interior " pan="-95.51" description="" tilt="-25.25" id="Point04" skinid="ht_node" url="{node45}" target="70.2/0.1/75.0"/>
+      <hotspot title="Interior " pan="-257.11" description="" tilt="-30.07" id="Point05" skinid="ht_node" url="{node49}" target="1.3/0.0/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node37" datetime="03/06/2022 10:29 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-93.54" description="" tilt="-29.03" id="Point01" skinid="ht_node" url="{node36}" target="177.6/-0.6/75.0"/>
+      <hotspot title="Interior " pan="-320.05" description="" tilt="-20.98" id="Point02" skinid="ht_node" url="{node38}" target="-9.5/-0.4/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node38" datetime="01/06/2022 08:36 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-178.31" description="" tilt="-20.91" id="Point01" skinid="ht_node" url="{node37}" target="-105.3/1.5/75.0"/>
+      <hotspot title="Interior" pan="-346.4" description="" tilt="-22.12" id="Point02" skinid="ht_node" url="{node39}" target="-155.1/-2.3/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node39" datetime="01/06/2022 08:06 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-341.89" description="" tilt="-22.64" id="Point01" skinid="ht_node" url="{node38}" target="179.7/-4.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node41" datetime="03/06/2022 11:18 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-185.65" description="" tilt="-23.6" id="Point01" skinid="ht_node" url="{node36}" target="147.6/0.7/75.0"/>
+      <hotspot title="Interiores" pan="-36.64" description="" tilt="-30.13" id="Point02" skinid="ht_node" url="{node42}" target="34.0/0.8/75.0"/>
+      <hotspot title="Interior" pan="-328.82" description="" tilt="-20.37" id="Point03" skinid="ht_node" url="{node43}" target="113.3/-0.9/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interiores" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node42" datetime="01/06/2022 06:05 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-155.19" description="" tilt="-32.5" id="Point01" skinid="ht_node" url="{node41}" target="-179.7/0.7/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node43" datetime="01/06/2022 06:35 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interiores" pan="-1.93" description="" tilt="-22.39" id="Point01" skinid="ht_node" url="{node42}" target="-13.1/0.8/75.0"/>
+      <hotspot title="Interior" pan="-38.73" description="" tilt="-22.43" id="Point02" skinid="ht_node" url="{node41}" target="-167.6/0.5/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node45" datetime="01/06/2022 05:06 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-91.55" description="" tilt="-24.69" id="Point01" skinid="ht_node" url="{node36}" target="113.8/-0.7/75.0"/>
+      <hotspot title="Interior " pan="-273.07" description="" tilt="-34.56" id="Point02" skinid="ht_node" url="{node46}" target="87.9/-0.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node46" datetime="01/06/2022 04:37 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-35" description="" tilt="-35.83" id="Point01" skinid="ht_node" url="{node45}" target="-51.0/-0.7/75.0"/>
+      <hotspot title="Interior" pan="-29.3" description="" tilt="-15.45" id="Point02" skinid="ht_node" url="{node36}" target="96.7/-1.8/75.0"/>
+      <hotspot title="Interior " pan="-317.41" description="" tilt="-26.17" id="Point03" skinid="ht_node" url="{node47}" target="-157.9/3.6/75.0"/>
+      <hotspot title="Interior " pan="-311.99" description="" tilt="-11.97" id="Point04" skinid="ht_node" url="{node48}" target="-38.1/-2.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node47" datetime="01/06/2022 04:09 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-341.85" description="" tilt="-25.83" id="Point01" skinid="ht_node" url="{node46}" target="-77.4/-2.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node48" datetime="02/06/2022 09:28 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-216.67" description="" tilt="-23.62" id="Point01" skinid="ht_node" url="{node47}" target="29.8/-0.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node49" datetime="06/06/2022 03:49 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-193.93" description="" tilt="-38.71" id="Point01" skinid="ht_node" url="{node36}" target="-59.2/-1.1/75.0"/>
+      <hotspot title="Interior" pan="-295.24" description="" tilt="-22.26" id="Point02" skinid="ht_node" url="{node50}" target="8.6/-4.4/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node50" datetime="06/06/2022 03:14 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-84.1" description="" tilt="-21.31" id="Point01" skinid="ht_node" url="{node49}" target="-165.3/-4.0/75.0"/>
+      <hotspot title="Interior " pan="-15.34" description="" tilt="-13.29" id="Point02" skinid="ht_node" url="{node51}" target="-161.9/3.5/75.0"/>
+      <hotspot title="Interior " pan="-165.72" description="" tilt="-39.57" id="Point03" skinid="ht_node" url="{node54}" target="-145.7/-1.6/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node51">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node51" datetime="06/06/2022 02:05 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-1.93" description="" tilt="-15.33" id="Point01" skinid="ht_node" url="{node50}" target="-165.4/-1.9/75.0"/>
+      <hotspot title="Interior" pan="-66.56" description="" tilt="-24.99" id="Point02" skinid="ht_node" url="{node52}" target="-82.9/-1.9/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node52" datetime="06/06/2022 02:40 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-87.08" description="" tilt="-24.41" id="Point01" skinid="ht_node" url="{node53}" target="38.0/1.3/75.0"/>
+      <hotspot title="Interior" pan="-0.76" description="" tilt="-16.89" id="Point02" skinid="ht_node" url="{node50}" target="-165.4/-4.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node53">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node53" datetime="02/06/2022 09:52 A. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-142.96" description="" tilt="-38.61" id="Point01" skinid="ht_node" url="{node52}" target="49.4/-0.6/75.0"/>
+      <hotspot title="Interior " pan="-138.14" description="" tilt="-18.72" id="Point02" skinid="ht_node" url="{node51}" target="51.6/2.2/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node54" datetime="06/06/2022 01:31 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior" pan="-335.32" description="" tilt="-46.05" id="Point01" skinid="ht_node" url="{node50}" target="0.0/0.0/75.0"/>
+      <hotspot title="Interior" pan="-329.93" description="" tilt="-13.77" id="Point02" skinid="ht_node" url="{node52}" target="165.1/-2.3/75.0"/>
+      <hotspot title="Interior " pan="-256.39" description="" tilt="-56.39" id="Point03" skinid="ht_node" url="{node56}" target="27.9/-0.1/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node56" datetime="01/06/2022 10:36 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-83.65" description="" tilt="-53.92" id="Point01" skinid="ht_node" url="{node54}" target="28.3/-0.2/75.0"/>
+      <hotspot title="Interior " pan="-352.64" description="" tilt="-43.44" id="Point02" skinid="ht_node" url="{node57}" target="-66.3/-0.2/75.0"/>
+      <hotspot title="Interior" pan="-356.61" description="" tilt="-18.34" id="Point03" skinid="ht_node" url="{node58}" target="61.6/-7.8/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node57">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior " tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node57" datetime="06/06/2022 12:57 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-234.49" description="" tilt="-49.66" id="Point01" skinid="ht_node" url="{node56}" target="-131.2/-2.4/75.0"/>
+      <hotspot title="Interior" pan="-63.94" description="" tilt="-21.97" id="Point02" skinid="ht_node" url="{node58}" target="34.1/0.5/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node58">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="2048">
+      <level preload="0" width="2048" predecode="0" height="2048"/>
+      <level preload="0" width="1024" predecode="0" height="1024"/>
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="75" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fov="30" pan="0" tilt="-90"/>
+      <max fov="90" pan="360" tilt="60" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="Interior" tags="01-IMAGENES 360|interior2" description="" comment="" info="" customnodeid="" nodeid="node58" datetime="06/06/2022 12:24 P. M." source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000" width="180" background="1" borderalpha="1" border="1" height="20" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Interior " pan="-261.13" description="" tilt="-24.44" id="Point01" skinid="ht_node" url="{node57}" target="131.1/1.4/75.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" hideabout="0" lockedmouse="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" tags="" description="" comment="" info="" customnodeid="" nodeid="master" datetime="" source="" heading="0" author="" latitude="" copyright="" longitude=""/>
+  </masternode>
+</tour>
